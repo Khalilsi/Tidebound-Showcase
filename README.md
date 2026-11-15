@@ -19,7 +19,6 @@
 - 🌊 **Underwater Exploration** — Explore underwater environments and navigate between game areas.
 - 🧩 **Puzzle Solving** — Work through puzzles and challenges to advance.
 - ⚠️ **Environmental Hazards** — Face hazards throughout the game scenes.
-<!-- - 🔦 **Flashlight System** — Use a flashlight as part of the gameplay experience. -->
 - 🚩 **Checkpoints** — Checkpoint mechanics support player progression.
 - ⚙️ **Interactive Game Systems** — Gameplay systems support player interactions and progression.
 - 🖥️ **User Interface** — Custom-designed UI elements are integrated into gameplay.
