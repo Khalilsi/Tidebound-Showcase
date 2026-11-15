@@ -6,7 +6,7 @@
 
 **Explore the depths. Solve the way forward.**
 
-<img src="games%20screenshots/Game%20Title.png" alt="Tidebound game title screen" width="900">
+<img src="games%20screenshots/Game%20Title.png" alt="Tidebound game title screen" width="500">
 
 *A collaborative 3D game project made with Unity.*
 
