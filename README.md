@@ -57,9 +57,9 @@ Tidebound is a collaborative project by a three-person team. Gameplay programmin
 
 | Team Member | Role |
 | --- | --- |
+| [Houssem Zarrad] | Gameplay Programmer |
 | Khalil Sidhom | Gameplay Programmer |
-| [Second Programmer's Name] | Gameplay Programmer |
-| [3D Artist's Name] | 3D Artist — 3D Modeling & Game Assets |
+| Hassen Mtiri] | 3D Artist — 3D Modeling & Game Assets |
 
 ## TOOLS & TECHNOLOGY
 
